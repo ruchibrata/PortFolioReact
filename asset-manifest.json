@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/ruchibrata/PortFolioReact.git/static/css/main.16fac82f.chunk.css",
-    "main.js": "/ruchibrata/PortFolioReact.git/static/js/main.7a33f895.chunk.js",
-    "main.js.map": "/ruchibrata/PortFolioReact.git/static/js/main.7a33f895.chunk.js.map",
-    "runtime-main.js": "/ruchibrata/PortFolioReact.git/static/js/runtime-main.cd8b17d5.js",
-    "runtime-main.js.map": "/ruchibrata/PortFolioReact.git/static/js/runtime-main.cd8b17d5.js.map",
-    "static/js/2.553bfc2a.chunk.js": "/ruchibrata/PortFolioReact.git/static/js/2.553bfc2a.chunk.js",
-    "static/js/2.553bfc2a.chunk.js.map": "/ruchibrata/PortFolioReact.git/static/js/2.553bfc2a.chunk.js.map",
-    "static/js/3.28b5bf2c.chunk.js": "/ruchibrata/PortFolioReact.git/static/js/3.28b5bf2c.chunk.js",
-    "static/js/3.28b5bf2c.chunk.js.map": "/ruchibrata/PortFolioReact.git/static/js/3.28b5bf2c.chunk.js.map",
-    "index.html": "/ruchibrata/PortFolioReact.git/index.html",
-    "static/css/main.16fac82f.chunk.css.map": "/ruchibrata/PortFolioReact.git/static/css/main.16fac82f.chunk.css.map",
-    "static/js/2.553bfc2a.chunk.js.LICENSE.txt": "/ruchibrata/PortFolioReact.git/static/js/2.553bfc2a.chunk.js.LICENSE.txt",
-    "static/media/REACTO.df61d0bf.png": "/ruchibrata/PortFolioReact.git/static/media/REACTO.df61d0bf.png",
-    "static/media/ReactHooks.6efbc58f.png": "/ruchibrata/PortFolioReact.git/static/media/ReactHooks.6efbc58f.png",
-    "static/media/logo.fa80afac.png": "/ruchibrata/PortFolioReact.git/static/media/logo.fa80afac.png",
-    "static/media/pinitLogo2.4e56ddaa.png": "/ruchibrata/PortFolioReact.git/static/media/pinitLogo2.4e56ddaa.png",
-    "static/media/Home.css": "/ruchibrata/PortFolioReact.git/static/media/ruchi.511f7fe1.png"
+    "main.css": "/PortFolioReact/static/css/main.f252eb47.chunk.css",
+    "main.js": "/PortFolioReact/static/js/main.7a33f895.chunk.js",
+    "main.js.map": "/PortFolioReact/static/js/main.7a33f895.chunk.js.map",
+    "runtime-main.js": "/PortFolioReact/static/js/runtime-main.939d2cd8.js",
+    "runtime-main.js.map": "/PortFolioReact/static/js/runtime-main.939d2cd8.js.map",
+    "static/js/2.553bfc2a.chunk.js": "/PortFolioReact/static/js/2.553bfc2a.chunk.js",
+    "static/js/2.553bfc2a.chunk.js.map": "/PortFolioReact/static/js/2.553bfc2a.chunk.js.map",
+    "static/js/3.28b5bf2c.chunk.js": "/PortFolioReact/static/js/3.28b5bf2c.chunk.js",
+    "static/js/3.28b5bf2c.chunk.js.map": "/PortFolioReact/static/js/3.28b5bf2c.chunk.js.map",
+    "index.html": "/PortFolioReact/index.html",
+    "static/css/main.f252eb47.chunk.css.map": "/PortFolioReact/static/css/main.f252eb47.chunk.css.map",
+    "static/js/2.553bfc2a.chunk.js.LICENSE.txt": "/PortFolioReact/static/js/2.553bfc2a.chunk.js.LICENSE.txt",
+    "static/media/REACTO.df61d0bf.png": "/PortFolioReact/static/media/REACTO.df61d0bf.png",
+    "static/media/ReactHooks.6efbc58f.png": "/PortFolioReact/static/media/ReactHooks.6efbc58f.png",
+    "static/media/logo.fa80afac.png": "/PortFolioReact/static/media/logo.fa80afac.png",
+    "static/media/pinitLogo2.4e56ddaa.png": "/PortFolioReact/static/media/pinitLogo2.4e56ddaa.png",
+    "static/media/Home.css": "/PortFolioReact/static/media/ruchi.511f7fe1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd8b17d5.js",
+    "static/js/runtime-main.939d2cd8.js",
     "static/js/2.553bfc2a.chunk.js",
-    "static/css/main.16fac82f.chunk.css",
+    "static/css/main.f252eb47.chunk.css",
     "static/js/main.7a33f895.chunk.js"
   ]
 }
