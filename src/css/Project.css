@@ -1,0 +1,77 @@
+.project-container {
+  border: 1px solid #e2e2e2;
+  border-radius: 0.5rem;
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-gap: 1em;
+  padding-left: 0em;
+  list-style: none;
+  font-size: large;
+  align-self: baseline;
+  /* justify-self: center; */
+}
+
+figure {
+  max-height: 250px;
+  width: 80%;
+  overflow: hidden;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+  position: relative;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+figcaption {
+  position: absolute;
+  bottom: 0;
+  /* justify-self: center;
+  align-self: center; */
+  /* position: center; */
+  background-color: rgba(55, 71, 83, 0.63);
+  /* left: 110px; */
+  border-radius: 0.5rem;
+  color: white;
+}
+
+.title {
+  text-decoration: none;
+}
+
+.motto {
+  text-decoration: none;
+  font-size: large;
+}
+
+.desc {
+  padding: 0.5rem;
+  text-align: left;
+  align-self: center;
+  font-size: large;
+}
+
+.link {
+  border: 1px solid #e2e2e2;
+  border-radius: 0.5rem;
+  height: 20%;
+  width: 30%;
+  padding: 1rem 1rem;
+  margin: 0.5rem;
+  background-color: rgba(55, 71, 83, 0.63);
+  align-self: center;
+  justify-self: right;
+  position: relative;
+}
+
+.a {
+  color: white;
+  text-decoration: none;
+  align-self: center;
+}

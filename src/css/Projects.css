@@ -1,0 +1,16 @@
+.intro {
+  border: 1px solid #e2e2e2;
+  border-radius: 0.5rem;
+  font-size: large;
+}
+
+.projects {
+  padding-top: 1em;
+
+  /* Grid styles*/
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  grid-gap: 1em;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+}

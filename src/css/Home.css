@@ -1,0 +1,11 @@
+.home {
+  background-image: url(../images/ruchi.png);
+  height: 100vh;
+  /* background-color: lightskyblue; */
+  background-position: center center;
+  background-repeat: repeat;
+  background-size: contain;
+  border: 1px solid;
+  border-radius: 0.5em;
+  color: white;
+}

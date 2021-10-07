@@ -1,0 +1,57 @@
+.articles {
+  padding-top: 1em;
+  height: 100%;
+  /* Grid styles */
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  grid-gap: 1em;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 0.5fr));
+}
+
+.article {
+  border: 1px solid #e2e2e2;
+  border-radius: 0.5rem;
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-gap: 1em;
+  padding-left: 0;
+  list-style: none;
+  font-size: large;
+  align-self: baseline;
+}
+
+figure {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  /* padding: 5rem; */
+  /* width: 100%; */
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+figcaption {
+  width: 250px;
+  position: absolute;
+  bottom: 0;
+  align-items: center;
+  background-color: rgba(55, 71, 83, 0.63);
+  border-radius: 0.5rem;
+}
+
+.desc {
+  padding: 0.5rem;
+  text-align: left;
+  align-self: center;
+  font-size: x-large;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
