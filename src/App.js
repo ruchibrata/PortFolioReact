@@ -1,5 +1,10 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Route,
+  Switch,
+  Redirect,
+} from "react-router-dom";
 import "./css/App.css";
 
 import Nav from "./Nav";
@@ -18,6 +23,7 @@ function App() {
           <Route exact path="/projects" component={Projects}></Route>
           <Route exact path="/articles" component={Articles}></Route>
           <Route exact path="/about" component={About}></Route>
+          <Redirect to="/" />
         </Switch>
       </div>
     </Router>
